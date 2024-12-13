@@ -1,2 +1,2 @@
 # Yangi_loyiha
-Qadoqlangan suv yetkazish xizmati
+Qadoqlangan suv etkazib beruvchi korxona ma`lumotlar bazasini yaratish	
